@@ -1,0 +1,183 @@
+@import '~@/common/css/avariables.scss';
+@import '~@/common/css/mixin.scss';
+
+.swiper .uni-swiper-wrapper .uni-swiper-dots-horizontal {
+	bottom: 30px !important;
+}
+.page {   /* 单屏背景设为白色 */
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+.container-30 {   /* 容器 */
+	padding: 30upx;
+}
+.container-50 {
+	padding: 50upx;
+}
+.container-20 {
+	padding: 20upx;
+}
+.row {              /* 抵消容器内边距 */
+	margin: 0 -30upx 0 -30upx;
+}
+/* 间距 */
+.mg-bottom-30 {
+	margin-bottom: 30upx;
+}
+.mg-top-30 {
+	margin-top: 30upx;
+}
+.mg-top-20 {
+	margin-top: 20upx;
+}
+.pd-top-15 {
+	padding-top: 15upx;
+}
+.pd-x-30 {
+	padding: 0 30upx;
+}
+.mg-y-30 {
+	margin: 30upx 0;
+}
+/* 定位 */
+.position-relative {
+	position: relative;
+}
+.position-absolute {
+	position: absolute;
+}
+/* flex布局 */
+.d-flex {
+	display: flex;
+}
+.flex-wrap {
+	flex-wrap: wrap;
+}
+.flex-direction-column {
+	flex-direction: column;
+}
+.justify-content-center {
+	justify-content: center;
+}
+.justify-content-between {
+	justify-content: space-between;
+}
+.justify-content-around {
+	justify-content: space-around;
+}
+.justify-content-evenly {
+	justify-content: space-evenly;
+}
+.align-items-center {
+	align-items: center;
+}
+.flex-1 {
+	flex: 1;
+}
+.flex-shrink-0 {
+	flex-shrink: 0;
+}
+/* 宽高设置 */
+.w-100 {
+	width: 100%;
+}
+.w-50 {
+	width: 50%;
+}
+.h-100 {
+	height: 100%;
+}
+/* 下边框 */
+.border-bottom {
+	border-bottom: 1upx solid #eeeeee;
+}
+/* 字体 */
+.font-bold {
+	font-weight: bold;
+}
+.text-muted {
+	color: #999;
+}
+.text-small {
+	font-size: 24upx;
+}
+.text-bg {
+	font-size: 32upx;
+}
+.text-change {
+	font-size: 26upx;
+}
+.text-center {
+	text-align: center;
+}
+.text-right {
+	text-align: right;
+}
+.text-justify {
+	text-align: justify;
+}
+/* 按钮 */
+.btn {
+	border-radius: 50upx;
+	font-size: 32upx;
+	&:after {
+		display: none;
+	}
+}
+.btn-confirm {
+	color: #fff;
+	background: $main-color;
+}
+.btn-fixed {
+	position: fixed;
+	// bottom: 30upx;
+	left: 40upx;
+	right: 40upx;
+}
+/* 阴影 */
+.shadow {
+	box-shadow: 2upx 2upx 2upx #eaeaea;
+}
+.btn-shadow {
+	box-shadow: 0 5upx 7upx #f6c3c9;
+}
+/* 圆角 */
+.border-radius {
+	border-radius: 15upx;
+}
+.rounded {
+	border-radius: 50%;
+}
+/* 背景 */
+.bg-white {
+	background: #fff;
+}
+/* 超出部分以省略号显示 */
+.ellipsis {
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+}
+/* 颜色 */
+.main-color {
+	color: $main-color;
+}
+/* 右侧箭头 */
+.right-arrow {
+	width: 14upx;
+	height: 24upx;
+	margin-left: 25upx;
+}
+/* hover-class */
+.hover-class {
+	background: rgba(0, 0, 0, .1);
+	opacity: .7;
+}
+/* clearfix */
+.clearfix:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+

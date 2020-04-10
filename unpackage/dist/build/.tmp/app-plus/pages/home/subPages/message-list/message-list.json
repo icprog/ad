@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "消 息",
+  "usingComponents": {
+    "empty": "/components/empty",
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action"
+  }
+}

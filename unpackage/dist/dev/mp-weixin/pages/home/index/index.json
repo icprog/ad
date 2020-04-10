@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "home",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "home-banner": "/components/banner",
+    "home-publish": "/pages/home/index/children/publish",
+    "home-notice": "/pages/home/index/children/notice",
+    "home-excellent": "/pages/home/index/children/excellent",
+    "home-popular": "/pages/home/index/children/popular",
+    "home-demand": "/pages/home/index/children/demand",
+    "uni-fab": "/components/uni-fab/uni-fab",
+    "publish-popup": "/components/publish-popup"
+  }
+}

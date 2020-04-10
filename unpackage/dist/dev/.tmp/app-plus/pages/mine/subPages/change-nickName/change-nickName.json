@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "修 改 昵 称",
+  "usingComponents": {
+    "input-cell": "/components/input-cell"
+  }
+}

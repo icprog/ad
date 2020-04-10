@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "订 单 跟 踪",
+  "usingComponents": {
+    "empty": "/components/empty",
+    "ali": "/components/wuliu-step"
+  }
+}

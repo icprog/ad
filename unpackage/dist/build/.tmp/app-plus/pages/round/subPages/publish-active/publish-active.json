@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "发 布 动 态",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "发 布",
+        "fontSize": 14
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "upload": "/components/upload"
+  }
+}

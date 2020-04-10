@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "list-cell": "/components/list-cell"
+  },
+  "component": true
+}

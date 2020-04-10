@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我 的 钱 包",
+  "usingComponents": {
+    "wallet-info": "/pages/mine/subPages/wallet/children/wallet-info",
+    "wallet-record": "/pages/mine/subPages/wallet/children/wallet-record"
+  }
+}

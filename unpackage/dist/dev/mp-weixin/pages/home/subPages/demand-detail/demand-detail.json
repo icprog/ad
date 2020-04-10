@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "需 求 详 情",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#f13130",
+  "usingComponents": {
+    "demand-person": "/pages/home/subPages/demand-detail/children/demand-person",
+    "demand-info": "/pages/home/subPages/demand-detail/children/demand-info",
+    "demand-offer": "/pages/home/subPages/demand-detail/children/demand-offer",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "header-bar": "/components/header-bar"
+  }
+}

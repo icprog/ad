@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"refund .",[1],"desc.",[1],"data-v-8f0590a2 { padding: ",[0,20],"; font-size: ",[0,28],"; -webkit-border-radius: ",[0,15],"; border-radius: ",[0,15],"; }\n.",[1],"refund .",[1],"btn.",[1],"data-v-8f0590a2 { margin-top: ",[0,200],"; background: #f13130; color: #fff; }\n",],undefined,{path:"./pages/mine/subPages/refund/refund.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/refund/refund.wxml') } }));

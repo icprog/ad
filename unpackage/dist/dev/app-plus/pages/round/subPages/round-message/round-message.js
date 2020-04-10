@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"wrap.",[1],"data-v-f86f6f50 { padding-top: ",[0,20],"; }\n.",[1],"wrap .",[1],"round1.",[1],"data-v-f86f6f50 { padding: 0 ",[0,30],"; }\n",],undefined,{path:"./pages/round/subPages/round-message/round-message.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/round/subPages/round-message/round-message.wxml') } }));

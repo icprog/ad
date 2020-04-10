@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订 单 管 理",
+  "usingComponents": {
+    "order-item": "/components/order-item",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "empty": "/components/empty",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

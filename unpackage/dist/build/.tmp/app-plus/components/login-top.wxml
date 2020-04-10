@@ -1,0 +1,1 @@
+<view class="login-title d-flex align-items-center justify-content-between data-v-f357fbcc"><view class="title font-bold data-v-f357fbcc">{{title}}</view><image class="icon-user data-v-f357fbcc" src="/static/images/b2@2x.png"></image></view>

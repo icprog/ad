@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "报 价 详 情",
+  "usingComponents": {
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "empty": "/components/empty"
+  }
+}

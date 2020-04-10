@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "广 告 临 客",
+  "usingComponents": {
+    "login-top": "/components/login-top",
+    "input-cell": "/components/input-cell"
+  }
+}

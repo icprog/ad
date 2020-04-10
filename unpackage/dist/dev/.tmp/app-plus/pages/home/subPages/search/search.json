@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "search",
+  "titleNView": false,
+  "usingComponents": {
+    "search-item": "/pages/home/subPages/search/children/search-item",
+    "search-result": "/pages/home/subPages/search/children/search-result"
+  }
+}

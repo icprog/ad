@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "修 改 手 机 号",
+  "usingComponents": {
+    "input-cell": "/components/input-cell"
+  }
+}

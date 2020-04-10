@@ -1,0 +1,1 @@
+<view class="wallet-wrap data-v-61ab9f98"><wallet-info vue-id="1" class="data-v-61ab9f98" bind:__l="__l"></wallet-info><wallet-record vue-id="2" trade_record="{{trade_record}}" data-event-opts="{{[['^onTypeItemClick',[['onTypeItemClick']]]]}}" bind:onTypeItemClick="__e" class="data-v-61ab9f98" bind:__l="__l"></wallet-record></view>

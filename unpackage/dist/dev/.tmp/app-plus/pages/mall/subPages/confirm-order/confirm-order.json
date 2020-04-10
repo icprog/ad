@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "填 写 订 单",
+  "usingComponents": {
+    "address-item": "/pages/mine/subPages/address-list/children/address-item",
+    "pay-methods": "/components/pay-methods",
+    "goods-item": "/components/goods-item"
+  }
+}

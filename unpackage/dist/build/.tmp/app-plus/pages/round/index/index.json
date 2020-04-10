@@ -1,0 +1,25 @@
+{
+  "navigationBarTitleText": "行 业 圈",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 20,
+  "titleNView": {
+    "buttons": [
+      {
+        "fontSrc": "/static/iconfont.ttf",
+        "text": "",
+        "fontSize": 22
+      },
+      {
+        "fontSrc": "/static/iconfont.ttf",
+        "text": "",
+        "fontSize": 24
+      }
+    ]
+  },
+  "usingComponents": {
+    "empty": "/components/empty",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "uni-load-more": "/components/uni-load-more/uni-load-more",
+    "publish-popup": "/components/publish-popup"
+  }
+}

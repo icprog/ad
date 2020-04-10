@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "完 善 资 料",
+  "usingComponents": {
+    "input-cell": "/components/input-cell",
+    "mpvue-city-picker": "/components/mpvue-citypicker/mpvueCityPicker",
+    "upload": "/components/upload"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我 的 商 品",
+  "usingComponents": {
+    "goods-item": "/pages/home/index/children/popular-item",
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "empty": "/components/empty"
+  }
+}

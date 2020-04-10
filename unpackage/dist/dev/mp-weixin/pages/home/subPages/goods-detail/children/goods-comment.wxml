@@ -1,0 +1,1 @@
+<view class="wrap data-v-c3fc9690"><block wx:for="{{goods_comment}}" wx:for-item="item" wx:for-index="index" wx:key="index"><comment-item vue-id="{{'1-'+index}}" comment="{{true}}" item="{{item}}" class="data-v-c3fc9690" bind:__l="__l"></comment-item></block><block wx:if="{{goods_comment.length<=0}}"><empty vue-id="2" class="data-v-c3fc9690" bind:__l="__l"></empty></block></view>

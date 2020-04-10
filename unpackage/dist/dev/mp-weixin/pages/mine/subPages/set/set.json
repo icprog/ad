@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "设 置",
+  "usingComponents": {
+    "list-cell": "/components/list-cell"
+  }
+}

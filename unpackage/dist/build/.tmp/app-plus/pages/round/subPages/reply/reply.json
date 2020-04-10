@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "回 复 我 的",
+  "usingComponents": {
+    "reply-comment": "/components/comment-item",
+    "empty": "/components/empty"
+  }
+}

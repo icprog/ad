@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "修 改 密 码",
+  "usingComponents": {
+    "input-cell": "/components/input-cell"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "聊 天",
+  "usingComponents": {
+    "empty": "/components/empty"
+  }
+}

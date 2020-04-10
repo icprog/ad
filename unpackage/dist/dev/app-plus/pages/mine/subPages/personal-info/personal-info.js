@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"set-wrap.",[1],"data-v-0d1a5632 { padding-top: ",[0,15],"; }\n.",[1],"set-wrap .",[1],"set.",[1],"data-v-0d1a5632 { padding: 0 ",[0,30],"; }\n",],undefined,{path:"./pages/mine/subPages/personal-info/personal-info.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/personal-info/personal-info.wxml') } }));

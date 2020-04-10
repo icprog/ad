@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "发 布 商 品",
+  "usingComponents": {
+    "upload": "/components/upload"
+  }
+}

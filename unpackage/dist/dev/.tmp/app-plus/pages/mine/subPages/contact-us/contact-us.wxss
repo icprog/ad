@@ -1,0 +1,149 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.wrap.data-v-20bb7362 {
+  min-height: 100%;
+  padding-bottom: 100rpx;
+  background: #f0f0f0;
+}
+.wrap .chat-list.data-v-20bb7362 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    padding: 30rpx 20rpx;
+}
+.wrap .chat-list .chat-item.data-v-20bb7362 {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center;
+      max-width: 87%;
+      margin-bottom: 50rpx;
+}
+.wrap .chat-list .chat-item .avatar.data-v-20bb7362 {
+        -webkit-flex-shrink: 0;
+            -ms-flex-negative: 0;
+                flex-shrink: 0;
+        width: 70rpx;
+        height: 70rpx;
+        margin-right: 20rpx;
+        -webkit-border-radius: 50%;
+                border-radius: 50%;
+}
+.wrap .chat-list .chat-item .content.data-v-20bb7362 {
+        position: relative;
+        padding: 15rpx 30rpx;
+        -webkit-border-radius: 15rpx;
+                border-radius: 15rpx;
+        background: #fff;
+}
+.wrap .chat-list .chat-item .content.data-v-20bb7362:after {
+          position: absolute;
+          content: '';
+          width: 0;
+          height: 0;
+          border: 10rpx solid transparent;
+          border-right-color: #fff;
+          border-left: none;
+          top: 50%;
+          margin-top: -10rpx;
+}
+.wrap .chat-list .custom.data-v-20bb7362 {
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: reverse;
+      -webkit-flex-direction: row-reverse;
+          -ms-flex-direction: row-reverse;
+              flex-direction: row-reverse;
+      -webkit-align-self: flex-end;
+          -ms-flex-item-align: end;
+              align-self: flex-end;
+}
+.wrap .chat-list .custom .avatar.data-v-20bb7362 {
+        margin-right: 0;
+        margin-left: 20rpx;
+}
+.wrap .chat-list .custom .content.data-v-20bb7362:after {
+        -webkit-transform: rotate(180deg);
+            -ms-transform: rotate(180deg);
+                transform: rotate(180deg);
+        right: -10rpx;
+}
+.wrap .chat-list .service .content.data-v-20bb7362 {
+      background: #ffbcb4;
+}
+.wrap .chat-list .service .content.data-v-20bb7362:after {
+        left: -10rpx;
+        border-right-color: #ffbcb4;
+}
+.wrap .input-wrap.data-v-20bb7362 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    height: 100rpx;
+    padding: 0 15rpx;
+    background: #f8f8f8;
+}
+.wrap .input-wrap input.data-v-20bb7362 {
+      -webkit-box-flex: 1;
+      -webkit-flex: 1;
+          -ms-flex: 1;
+              flex: 1;
+      height: 70rpx;
+      line-height: 70rpx;
+      margin-left: 15rpx;
+      padding: 0 30rpx;
+      border: 1rpx solid #bebebe;
+      -webkit-border-radius: 50rpx;
+              border-radius: 50rpx;
+}
+.wrap .input-wrap .iconfont.data-v-20bb7362 {
+      margin-left: 15rpx;
+      font-size: 50rpx;
+      color: #bebebe;
+}
+.wrap .input-wrap .send.data-v-20bb7362 {
+      margin-left: 15rpx;
+}
+

@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"detail.",[1],"data-v-decc8d9e { padding: ",[0,30],"; }\n.",[1],"detail .",[1],"title.",[1],"data-v-decc8d9e { padding: ",[0,20]," 0; }\n.",[1],"detail .",[1],"content.",[1],"data-v-decc8d9e { text-align: justify; }\n",],undefined,{path:"./pages/home/subPages/notice-detail/notice-detail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/subPages/notice-detail/notice-detail.wxml') } }));

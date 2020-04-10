@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"wrap.",[1],"data-v-225b641c { min-height: 100%; padding-top: ",[0,20],"; }\n.",[1],"wrap .",[1],"bg-white.",[1],"data-v-225b641c { padding: 0 ",[0,20],"; }\n",],undefined,{path:"./pages/round/subPages/reply/reply.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/round/subPages/reply/reply.wxml') } }));

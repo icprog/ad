@@ -1,0 +1,1 @@
+<view class="business bg-white data-v-ee826b6c"><view class="business-title bold data-v-ee826b6c">主营业务</view><view class="business-list d-flex flex-wrap data-v-ee826b6c"><block wx:for="{{merchant_detail.main}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="business-item data-v-ee826b6c">{{item}}</view></block></view></view>

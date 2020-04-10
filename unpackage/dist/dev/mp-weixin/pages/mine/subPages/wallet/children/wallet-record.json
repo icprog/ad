@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "record-item": "/pages/mine/subPages/wallet/children/record-item",
+    "empty": "/components/empty"
+  },
+  "component": true
+}

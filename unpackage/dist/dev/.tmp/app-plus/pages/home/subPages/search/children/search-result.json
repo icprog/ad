@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "search-item": "/pages/home/index/children/popular-item"
+  },
+  "component": true
+}

@@ -1,0 +1,1 @@
+<view class="wrap bg-white data-v-fa07aebe"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><attention-item vue-id="{{'1-'+index}}" attention="{{true}}" item="{{item}}" class="data-v-fa07aebe" bind:__l="__l"></attention-item></block><block wx:if="{{list.length<=0}}"><empty vue-id="2" class="data-v-fa07aebe" bind:__l="__l"></empty></block></view>

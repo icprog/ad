@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "绑 定 手 机 号",
+  "usingComponents": {
+    "login-top": "/components/login-top",
+    "input-cell": "/components/input-cell"
+  }
+}

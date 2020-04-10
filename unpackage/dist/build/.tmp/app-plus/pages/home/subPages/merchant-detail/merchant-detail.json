@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "商 家 详 情",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "merchant-info": "/pages/home/subPages/merchant-detail/children/merchant-info",
+    "merchant-business": "/pages/home/subPages/merchant-detail/children/merchant-business",
+    "merchant-active": "/pages/home/subPages/merchant-detail/children/merchant-active",
+    "merchant-service": "/pages/home/subPages/merchant-detail/children/merchant-service",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

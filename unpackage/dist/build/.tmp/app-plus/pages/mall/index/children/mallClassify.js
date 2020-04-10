@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/mall/index/children/mallClassify"],{"0fd1":function(e,t,n){"use strict";var r=n("9ec1"),o=n.n(r);o.a},"1c11":function(e,t,n){"use strict";n.r(t);var r=n("94e9"),o=n("a44c");for(var a in o)"default"!==a&&function(e){n.d(t,e,function(){return o[e]})}(a);n("0fd1");var u=n("2877"),c=Object(u["a"])(o["default"],r["a"],r["b"],!1,null,"27d004fa",null);t["default"]=c.exports},"94e9":function(e,t,n){"use strict";var r=function(){var e=this,t=e.$createElement;e._self._c},o=[];n.d(t,"a",function(){return r}),n.d(t,"b",function(){return o})},"9ec1":function(e,t,n){},a44c:function(e,t,n){"use strict";n.r(t);var r=n("ed24"),o=n.n(r);for(var a in r)"default"!==a&&function(e){n.d(t,e,function(){return r[e]})}(a);t["default"]=o.a},ed24:function(e,t,n){"use strict";(function(e){Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var r=n("25d2"),o=n("2f62");function a(e){for(var t=1;t<arguments.length;t++){var n=null!=arguments[t]?arguments[t]:{},r=Object.keys(n);"function"===typeof Object.getOwnPropertySymbols&&(r=r.concat(Object.getOwnPropertySymbols(n).filter(function(e){return Object.getOwnPropertyDescriptor(n,e).enumerable}))),r.forEach(function(t){u(e,t,n[t])})}return e}function u(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}var c={name:"",data:function(){return{}},onLoad:function(){},computed:a({},(0,o.mapState)(["all_demand_type"]),{BASE_URL:function(){return r.BASE_URL}}),methods:{onLookMore:function(){e.navigateTo({url:"/pages/home/subPages/goods-list/goods-list"})}}};t.default=c}).call(this,n("6e42")["default"])}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/mall/index/children/mallClassify-create-component',
+    {
+        'pages/mall/index/children/mallClassify-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('6e42')['createComponent'](__webpack_require__("1c11"))
+        })
+    },
+    [['pages/mall/index/children/mallClassify-create-component']]
+]);                

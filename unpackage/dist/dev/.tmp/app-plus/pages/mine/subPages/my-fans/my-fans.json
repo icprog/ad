@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我 的 粉 丝",
+  "usingComponents": {
+    "attention-item": "/components/attention-item",
+    "empty": "/components/empty"
+  }
+}

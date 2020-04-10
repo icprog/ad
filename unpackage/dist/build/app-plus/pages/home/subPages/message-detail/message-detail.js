@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"wrap.",[1],"data-v-e124edfc { width: 100%; height: 100%; padding-top: ",[0,20],"; }\n.",[1],"wrap .",[1],"content.",[1],"data-v-e124edfc { width: 100%; height: 100%; padding: ",[0,30],"; color: #999999; line-height: 1.8; text-align: justify; }\n",],undefined,{path:"./pages/home/subPages/message-detail/message-detail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/subPages/message-detail/message-detail.wxml') } }));

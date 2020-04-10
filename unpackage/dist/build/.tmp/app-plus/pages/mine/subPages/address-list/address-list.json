@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "地 址 管 理",
+  "usingComponents": {
+    "address-item": "/pages/mine/subPages/address-list/children/address-item",
+    "empty": "/components/empty"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我 的 收 藏",
+  "usingComponents": {
+    "collect-item": "/pages/home/index/children/demand-item",
+    "empty": "/components/empty"
+  }
+}

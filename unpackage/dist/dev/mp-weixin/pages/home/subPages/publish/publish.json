@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "发 布 需 求",
+  "usingComponents": {
+    "mpvue-picker": "/components/mpvue-picker/mpvuePicker",
+    "upload": "/components/upload"
+  }
+}

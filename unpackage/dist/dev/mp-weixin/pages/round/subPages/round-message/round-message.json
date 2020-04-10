@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "行 业 圈 消 息",
+  "usingComponents": {
+    "list-cell": "/components/list-cell"
+  }
+}

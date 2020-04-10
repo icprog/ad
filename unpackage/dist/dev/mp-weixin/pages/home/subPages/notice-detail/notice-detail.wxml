@@ -1,0 +1,1 @@
+<view class="detail data-v-cdc17fd4"><view class="text-center text-muted text-small data-v-cdc17fd4">{{detail.create_time_text}}</view><view class="text-center title data-v-cdc17fd4">{{detail.title}}</view><u-parse vue-id="1" content="{{detail.content}}" class="data-v-cdc17fd4" bind:__l="__l"></u-parse></view>

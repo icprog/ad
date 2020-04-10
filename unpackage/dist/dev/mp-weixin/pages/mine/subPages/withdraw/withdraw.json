@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "提 现",
+  "usingComponents": {
+    "input-cell": "/components/input-cell"
+  }
+}

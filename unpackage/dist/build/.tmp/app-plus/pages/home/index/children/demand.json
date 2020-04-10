@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "demand-title": "/pages/home/index/children/title",
+    "demand-item": "/pages/home/index/children/demand-item"
+  },
+  "component": true
+}

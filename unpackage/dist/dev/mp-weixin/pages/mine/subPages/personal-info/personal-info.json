@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "个 人 信 息",
+  "usingComponents": {
+    "list-cell": "/components/list-cell"
+  }
+}

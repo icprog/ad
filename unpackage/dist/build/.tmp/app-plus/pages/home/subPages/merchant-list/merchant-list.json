@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "附 近 商 家",
+  "usingComponents": {
+    "merchant-item": "/pages/home/index/children/popular-item",
+    "empty": "/components/empty"
+  }
+}

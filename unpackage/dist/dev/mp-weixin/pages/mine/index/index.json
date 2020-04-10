@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我 的",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#f13130",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "mine-info": "/pages/mine/index/children/mine-info",
+    "mine-service": "/pages/mine/index/children/mine-service",
+    "mine-list": "/pages/mine/index/children/mine-list",
+    "publish-popup": "/components/publish-popup"
+  }
+}

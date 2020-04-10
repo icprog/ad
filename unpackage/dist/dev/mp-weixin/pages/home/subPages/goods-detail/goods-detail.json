@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商 品 详 情",
+  "usingComponents": {
+    "goods-banner": "/pages/home/subPages/goods-detail/children/goods-banner",
+    "goods-belong": "/pages/home/subPages/merchant-detail/children/merchant-item",
+    "goods-detail": "/pages/home/subPages/goods-detail/children/goods-detail",
+    "goods-comment": "/pages/home/subPages/goods-detail/children/goods-comment"
+  }
+}

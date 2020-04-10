@@ -1,0 +1,1 @@
+<view class="wrap data-v-13c0479a"><block wx:for="{{fans_list}}" wx:for-item="item" wx:for-index="index" wx:key="index"><attention-item vue-id="{{'1-'+index}}" item="{{item}}" isFans="{{true}}" class="data-v-13c0479a" bind:__l="__l"></attention-item></block><block wx:if="{{fans_list.length<=0}}"><empty vue-id="2" class="data-v-13c0479a" bind:__l="__l"></empty></block></view>

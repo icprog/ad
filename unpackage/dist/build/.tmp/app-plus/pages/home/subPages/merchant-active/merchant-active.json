@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "动 态 详 情",
+  "usingComponents": {
+    "merchant-active": "/components/active-item",
+    "merchant-comment": "/components/comment-item",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

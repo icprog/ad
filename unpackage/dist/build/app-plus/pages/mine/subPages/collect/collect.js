@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"list.",[1],"data-v-c71166ca { min-height: 100%; padding: ",[0,30],"; background: #fff; }\n",],undefined,{path:"./pages/mine/subPages/collect/collect.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/collect/collect.wxml') } }));

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "登 录",
+  "usingComponents": {
+    "login-top": "/components/login-top",
+    "input-cell": "/components/input-cell",
+    "third-login": "/components/third-login"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "编 辑 地 址",
+  "usingComponents": {
+    "input-cell": "/components/input-cell",
+    "mpvue-city-picker": "/components/mpvue-citypicker/mpvueCityPicker"
+  }
+}

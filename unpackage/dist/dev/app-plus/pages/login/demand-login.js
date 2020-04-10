@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"container-50.",[1],"data-v-36e64da4 { min-height: 100%; }\n.",[1],"btn.",[1],"data-v-36e64da4 { margin-top: ",[0,70],"; color: #fff; background: #f13130; }\n.",[1],"login-btn.",[1],"data-v-36e64da4 { position: fixed; left: 0; width: 100%; -webkit-border-radius: 0; border-radius: 0; color: #666666; background: #f8f8f8; }\n",],undefined,{path:"./pages/login/demand-login.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/demand-login.wxml') } }));

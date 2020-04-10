@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "投 诉 反 馈",
+  "usingComponents": {
+    "upload": "/components/upload"
+  }
+}

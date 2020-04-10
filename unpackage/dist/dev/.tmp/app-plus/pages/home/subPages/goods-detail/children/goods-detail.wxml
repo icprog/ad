@@ -1,0 +1,1 @@
+<view class="content data-v-df29d4e6"><block wx:for="{{goods_detail.dimages}}" wx:for-item="item" wx:for-index="index" wx:key="index"><image lazy-load="{{true}}" mode="widthFix" src="{{BASE_URL+item}}" data-event-opts="{{[['tap',[['onPreviewImage',['$0',index],['goods_detail.dimages']]]]]}}" bindtap="__e" class="data-v-df29d4e6"></image></block></view>

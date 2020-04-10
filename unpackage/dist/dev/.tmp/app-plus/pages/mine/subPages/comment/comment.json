@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我 的 评 价",
+  "usingComponents": {
+    "comment-item": "/pages/mine/subPages/comment/children/comment-item",
+    "empty": "/components/empty"
+  }
+}

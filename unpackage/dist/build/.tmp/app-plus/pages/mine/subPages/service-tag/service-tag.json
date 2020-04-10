@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "服 务 标 签",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "保 存",
+        "fontSize": 14
+      }
+    ]
+  },
+  "usingComponents": {}
+}

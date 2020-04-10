@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/home/subPages/merchant-detail/children/merchant-active"],{"027d":function(t,n,e){"use strict";var a=function(){var t=this,n=t.$createElement;t._self._c},i=[];e.d(n,"a",function(){return a}),e.d(n,"b",function(){return i})},"0937":function(t,n,e){"use strict";(function(t){Object.defineProperty(n,"__esModule",{value:!0}),n.default=void 0;var a=e("25d2"),i=function(){return Promise.all([e.e("common/vendor"),e.e("components/active-item")]).then(e.bind(null,"ad41"))},o={name:"",props:{merchant_detail:Object},data:function(){return{}},onLoad:function(){},computed:{BASE_URL:function(){return a.BASE_URL}},methods:{onLookMore:function(){t.navigateTo({url:"/pages/home/subPages/active-list/active-list"})},onActiveButtonClick:function(t){var n=t.type,e=t.id;this.$emit("onActiveButtonClick",{type:n,id:e})},onGoToActiveDetail:function(t){this.$emit("onGoToActiveDetail",t)}},components:{activeDetail:i}};n.default=o}).call(this,e("6e42")["default"])},"2ab4":function(t,n,e){},"35c6":function(t,n,e){"use strict";e.r(n);var a=e("027d"),i=e("a345");for(var o in i)"default"!==o&&function(t){e.d(n,t,function(){return i[t]})}(o);e("5a5c");var c=e("2877"),u=Object(c["a"])(i["default"],a["a"],a["b"],!1,null,"3a319941",null);n["default"]=u.exports},"5a5c":function(t,n,e){"use strict";var a=e("2ab4"),i=e.n(a);i.a},a345:function(t,n,e){"use strict";e.r(n);var a=e("0937"),i=e.n(a);for(var o in a)"default"!==o&&function(t){e.d(n,t,function(){return a[t]})}(o);n["default"]=i.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/home/subPages/merchant-detail/children/merchant-active-create-component',
+    {
+        'pages/home/subPages/merchant-detail/children/merchant-active-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('6e42')['createComponent'](__webpack_require__("35c6"))
+        })
+    },
+    [['pages/home/subPages/merchant-detail/children/merchant-active-create-component']]
+]);                

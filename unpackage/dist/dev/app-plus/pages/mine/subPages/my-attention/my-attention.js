@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"wrap.",[1],"data-v-67907e8f { padding-top: ",[0,20],"; }\n",],undefined,{path:"./pages/mine/subPages/my-attention/my-attention.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/my-attention/my-attention.wxml') } }));

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "充 值",
+  "usingComponents": {
+    "input-cell": "/components/input-cell",
+    "pay-method": "/components/pay-method"
+  }
+}

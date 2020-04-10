@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "公 告 详 情",
+  "usingComponents": {
+    "u-parse": "/components/uParse/src/wxParse"
+  }
+}

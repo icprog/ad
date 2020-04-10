@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"success.",[1],"data-v-3b8a14ae { min-height: 100%; padding: ",[0,100],"; }\n.",[1],"success wx-image.",[1],"data-v-3b8a14ae { width: ",[0,200],"; height: ",[0,200],"; }\n.",[1],"success wx-view.",[1],"data-v-3b8a14ae { padding: ",[0,30]," 0; font-size: ",[0,32],"; }\n",],undefined,{path:"./pages/mine/subPages/success/success.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/success/success.wxml') } }));

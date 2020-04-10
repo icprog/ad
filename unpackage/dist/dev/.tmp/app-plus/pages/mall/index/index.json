@@ -1,0 +1,35 @@
+{
+  "navigationBarTitleText": "mall",
+  "titleNView": {
+    "searchInput": {
+      "placeholder": "搜一搜",
+      "borderRadius": "50px",
+      "align": "left",
+      "disabled": true,
+      "backgroundColor": "#f2f2f2",
+      "placeholderColor": "#999999"
+    },
+    "buttons": [
+      {
+        "width": "50px",
+        "text": "",
+        "fontSrc": "/static/iconfont.ttf",
+        "fontSize": "19px",
+        "float": "left"
+      },
+      {
+        "width": "50px",
+        "text": "",
+        "fontSrc": "/static/iconfont.ttf",
+        "fontSize": "22px"
+      }
+    ]
+  },
+  "usingComponents": {
+    "mall-banner": "/pages/mall/index/children/mallBanner",
+    "mall-classify": "/pages/mall/index/children/mallClassify",
+    "mall-popular": "/pages/home/index/children/popular",
+    "mall-excellent": "/pages/home/index/children/excellent",
+    "publish-popup": "/components/publish-popup"
+  }
+}

@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"address-list.",[1],"data-v-bc91ae62 { min-height: 100%; padding: 0 ",[0,40]," ",[0,150]," ",[0,40],"; }\n",],undefined,{path:"./pages/mine/subPages/address-list/address-list.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/address-list/address-list.wxml') } }));

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商 品 评 价",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate",
+    "upload": "/components/upload"
+  }
+}

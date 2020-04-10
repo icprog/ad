@@ -1,0 +1,1 @@
+<view class="wrap d-flex align-items-center justify-content-between data-v-385fb421"><view class="tit font-bold data-v-385fb421">{{title}}</view><block wx:if="{{showMoreButton}}"><button data-event-opts="{{[['tap',[['onMoreRecommendClick',['$0'],['title']]]]]}}" class="more bg-white text-muted data-v-385fb421" bindtap="__e">更多推荐</button></block></view>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "我 的 发 布",
+  "usingComponents": {
+    "uni-swipe-action": "/components/uni-swipe-action/uni-swipe-action",
+    "empty": "/components/empty"
+  }
+}

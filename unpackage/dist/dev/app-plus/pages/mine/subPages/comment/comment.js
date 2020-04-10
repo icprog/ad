@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"comment-list.",[1],"data-v-4b480e6f { min-height: 100%; }\n",],undefined,{path:"./pages/mine/subPages/comment/comment.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/comment/comment.wxml') } }));

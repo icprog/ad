@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "赞",
+  "usingComponents": {
+    "reply-comment": "/components/comment-item",
+    "empty": "/components/empty"
+  }
+}

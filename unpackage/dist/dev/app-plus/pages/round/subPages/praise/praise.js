@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"wrap.",[1],"data-v-4a8da546 { min-height: 100%; padding-top: ",[0,20],"; }\n.",[1],"wrap .",[1],"bg-white.",[1],"data-v-4a8da546 { padding: 0 ",[0,20],"; }\n",],undefined,{path:"./pages/round/subPages/praise/praise.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/round/subPages/praise/praise.wxml') } }));

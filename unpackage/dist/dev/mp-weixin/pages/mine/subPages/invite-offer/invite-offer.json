@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "邀 请 报 价",
+  "usingComponents": {
+    "attention-item": "/components/attention-item",
+    "empty": "/components/empty"
+  }
+}

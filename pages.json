@@ -1,0 +1,619 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/index/index",
+			"style": {
+				"navigationBarTitleText": "home",
+				"enablePullDownRefresh": true,
+				"app-plus": {
+					"titleNView": {
+						"searchInput": {
+							"placeholder": "搜一搜",
+							"borderRadius": "50px",
+							"align": "left",
+							"disabled": true,
+							"backgroundColor": "#f2f2f2",
+							"placeholderColor": "#999999"
+						},
+						"buttons": [
+							{
+								"width": "50px",
+								"text": "\ue607",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "19px",
+								"float": "left"
+							},
+							{
+								"width": "50px",
+								"text": "\ue69a",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "22px"
+							}	
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mall/index/index",
+			"style": {
+				"navigationBarTitleText": "mall",
+				"app-plus": {
+					"titleNView": {
+						"searchInput": {
+							"placeholder": "搜一搜",
+							"borderRadius": "50px",
+							"align": "left",
+							"disabled": true,
+							"backgroundColor": "#f2f2f2",
+							"placeholderColor": "#999999"
+						},
+						"buttons": [
+							{
+								"width": "50px",
+								"text": "\ue607",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "19px",
+								"float": "left"
+							},
+							{
+								"width": "50px",
+								"text": "\ue69a",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "22px"
+							}	
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/home/subPages/search/search",
+			"style": {
+				"navigationBarTitleText": "search",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/home/subPages/notice-list/notice-list",
+			"style": {
+				"navigationBarTitleText": "最 新 公 告"
+			}
+		},
+		{
+			"path": "pages/home/subPages/notice-detail/notice-detail",
+			"style": {
+				"navigationBarTitleText": "公 告 详 情"
+			}
+		},
+		{
+			"path": "pages/mall/subPages/confirm-order/confirm-order",
+			"style": {
+				"navigationBarTitleText": "填 写 订 单"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/order/order",
+			"style": {
+				"navigationBarTitleText": "我 的 订 单"
+			}
+		},
+		{
+			"path": "pages/home/subPages/message-list/message-list",
+			"style": {
+				"navigationBarTitleText": "消 息"
+			}
+		},
+		{
+			"path": "pages/publish/subPages/publish-goods/publish-goods",
+			"style": {
+				"navigationBarTitleText": "发 布 商 品"
+			}
+		},
+		{
+			"path": "pages/publish/subPages/edit-goods/edit-goods",
+			"style": {
+				"navigationBarTitleText": "编 辑 商 品"
+			}
+		},
+		{
+			"path": "pages/home/subPages/publish-type/publish-type",
+			"style": {
+				"navigationBarTitleText": "发 布 需 求"
+			}
+		},
+		{
+			"path": "pages/home/subPages/publish/publish",
+			"style": {
+				"navigationBarTitleText": "发 布 需 求"
+			}
+		},
+		{
+			"path": "pages/home/subPages/merchant-detail/merchant-detail",
+			"style": {
+				"navigationBarTitleText": "商 家 详 情",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/home/subPages/active-list/active-list",
+			"style": {
+				"navigationBarTitleText": "店 铺 动 态"
+			}
+		},
+		{
+			"path": "pages/home/subPages/merchant-active/merchant-active",
+			"style": {
+				"navigationBarTitleText": "动 态 详 情"
+			}
+		},
+		{
+			"path": "pages/home/subPages/goods-detail/goods-detail",
+			"style": {
+				"navigationBarTitleText": "商 品 详 情",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/home/subPages/demand-detail/demand-detail",
+			"style": {
+				"navigationBarTitleText": "需 求 详 情",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#f13130",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/home/subPages/message-detail/message-detail",
+			"style": {
+				"navigationBarTitleText": "消 息"
+			}
+		},
+		{
+			"path": "pages/home/subPages/merchant-list/merchant-list",
+			"style": {
+				"navigationBarTitleText": "附 近 商 家"
+			}
+		},
+		{
+			"path": "pages/home/subPages/demand-list/demand-list",
+			"style": {
+				"navigationBarTitleText": "附 近 需 求"
+			}
+		},
+		{
+			"path": "pages/home/subPages/goods-list/goods-list",
+			"style": {
+				"navigationBarTitleText": "设 计 类 目",
+				"onReachBottomDistance": 20
+			}
+		},
+		{
+			"path": "pages/publish/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/round/index/index",
+			"style": {
+				"navigationBarTitleText": "行 业 圈",
+				"enablePullDownRefresh": true,
+				"onReachBottomDistance": 20,
+				"app-plus": {
+					"titleNView": {
+						"buttons": [
+							{
+								"fontSrc": "/static/iconfont.ttf",
+								"text": "\ue693",
+								"fontSize": 22
+							},
+							{
+								"fontSrc": "/static/iconfont.ttf",
+								"text": "\ue69a",
+								"fontSize": 24
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/round/subPages/publish-active/publish-active",
+			"style": {
+				"navigationBarTitleText": "发 布 动 态",
+				"titleNView": {
+					"buttons": [
+						{
+							"text": "发 布",
+							"fontSize": 14
+						}
+					]
+				}
+			}
+		},
+		{
+			"path": "pages/round/subPages/round-message/round-message",
+			"style": {
+				"navigationBarTitleText": "行 业 圈 消 息"
+			}
+		},
+		{
+			"path": "pages/round/subPages/reply/reply",
+			"style": {
+				"navigationBarTitleText": "回 复 我 的"
+			}
+		},
+		{
+			"path": "pages/round/subPages/follow/follow",
+			"style": {
+				"navigationBarTitleText": "我 的 关 注"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/my-attention/my-attention",
+			"style": {
+				"navigationBarTitleText": "我 的 关 注"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/my-fans/my-fans",
+			"style": {
+				"navigationBarTitleText": "我 的 粉 丝"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/my-publish/my-publish",
+			"style": {
+				"navigationBarTitleText": "我 的 发 布"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/invite-offer/invite-offer",
+			"style": {
+				"navigationBarTitleText": "邀 请 报 价"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/service-goods/service-goods",
+			"style": {
+				"navigationBarTitleText": "我 的 商 品"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/message-list/message-list",
+			"style": {
+				"navigationBarTitleText": "聊 天"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/success/success",
+			"style": {
+				"navigationBarTitleText": "支 付 成 功"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/refund/refund",
+			"style": {
+				"navigationBarTitleText": "退 款 申 请"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/offer-detail/offer-detail",
+			"style": {
+				"navigationBarTitleText": "报 价 详 情"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/offer-detail2/offer-detail",
+			"style": {
+				"navigationBarTitleText": "报 价 详 情"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/personal-info/personal-info",
+			"style": {
+				"navigationBarTitleText": "个 人 信 息"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/service-order/service-order",
+			"style": {
+				"navigationBarTitleText": "订 单 管 理"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/order-fllow/order-fllow",
+			"style": {
+				"navigationBarTitleText": "订 单 跟 踪"
+			}
+		},
+		{
+			"path": "pages/round/subPages/praise/praise",
+			"style": {
+				"navigationBarTitleText": "赞"
+			}
+		},
+		{
+			"path": "pages/mine/index/index",
+			"style": {
+				"navigationBarTitleText": "我 的",
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#f13130",
+				"enablePullDownRefresh": true,
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent",
+						"buttons": [
+							{
+								"text": "\ue70f",
+								"fontSrc": "/static/iconfont.ttf",
+								"fontSize": "28px"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/subPages/set/set",
+			"style": {
+				"navigationBarTitleText": "设 置"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/change-phone/change-phone",
+			"style": {
+				"navigationBarTitleText": "修 改 手 机 号"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/change-pwd/change-pwd",
+			"style": {
+				"navigationBarTitleText": "修 改 密 码"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/change-nickName/change-nickName",
+			"style": {
+				"navigationBarTitleText": "修 改 昵 称"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/wallet/wallet",
+			"style": {
+				"navigationBarTitleText": "我 的 钱 包"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/comment/comment",
+			"style": {
+				"navigationBarTitleText": "我 的 评 价"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/collect/collect",
+			"style": {
+				"navigationBarTitleText": "我 的 收 藏"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/my-join/my-join",
+			"style": {
+				"navigationBarTitleText": "我 的 参 与"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/goods-comment/goods-comment",
+			"style": {
+				"navigationBarTitleText": "商 品 评 价"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/address-list/address-list",
+			"style": {
+				"navigationBarTitleText": "地 址 管 理"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/address-edit/address-edit",
+			"style": {
+				"navigationBarTitleText": "编 辑 地 址",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [
+							{
+								"text": "",
+								"fontSize": "0px"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/subPages/feedback/feedback",
+			"style": {
+				"navigationBarTitleText": "投 诉 反 馈"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/approve/approve",
+			"style": {
+				"navigationBarTitleText": "认证",
+				"app-plus": {
+					"titleNView": {
+						"type": "transparent"
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/mine/subPages/complete-info/complete-info",
+			"style": {
+				"navigationBarTitleText": "完 善 资 料"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/contact-us/contact-us",
+			"style": {
+				"navigationBarTitleText": "聊 天"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/service-tag/service-tag",
+			"style": {
+				"navigationBarTitleText": "服 务 标 签",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [
+							{
+								"text": "保 存",
+								"fontSize": 14
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/home/subPages/choose-location/choose-location",
+			"style": {
+				"navigationBarTitleText": "获 取 位 置"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/recharge/recharge",
+			"style": {
+				"navigationBarTitleText": "充 值"
+			}
+		},
+		{
+			"path": "pages/mine/subPages/withdraw/withdraw",
+			"style": {
+				"navigationBarTitleText": "提 现"
+			}
+		},
+		{
+			"path": "pages/login/demand-login",
+			"style": {
+				"navigationBarTitleText": "广 告 临 客"
+			}
+		},
+		{
+			"path": "pages/login/bind-phone",
+			"style": {
+				"navigationBarTitleText": "绑 定 手 机 号"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登 录",
+				"app-plus": {
+					"titleNView": {
+						"buttons": [
+							{
+								"text": "注册",
+								"fontSize": 14,
+								"color": "#f13130"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/login/sms-login",
+			"style": {
+				"navigationBarTitleText": "广 告 临 客"
+			}
+		},
+		{
+			"path": "pages/login/forget-pwd",
+			"style": {
+				"navigationBarTitleText": "广 告 临 客"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "广 告 临 客",
+		"navigationBarBackgroundColor": "#ffffff",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"color": "#c0c0c0",
+		"selectedColor": "#f13130",
+		"list": [{
+				"pagePath": "pages/home/index/index",
+				"iconPath": "static/images/tabbar/shouye@2x.png",
+				"selectedIconPath": "static/images/tabbar/shouye1@2x.png",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/mall/index/index",
+				"iconPath": "static/images/tabbar/shangcheng@2x.png",
+				"selectedIconPath": "static/images/tabbar/shangcheng1@2x.png",
+				"text": "商城"
+			},
+			//#ifdef MP-WEIXIN
+			{
+				"pagePath": "pages/plulish/index/index",
+				"iconPath": "static/images/tabbar/add.png",
+				"selectedIconPath": "static/images/tabbar/addactive.png",
+				"text": ""
+			},
+			//#endif
+			//#ifndef MP-WEIXIN
+			{
+				"pagePath": "",
+				"iconPath": "static/1.png",
+				"selectedIconPath": "static/2.png",
+				"text": "发布"
+			},
+			//#endif
+			{
+				"pagePath": "pages/round/index/index",
+				"iconPath": "static/images/tabbar/shangyequan@2x.png",
+				"selectedIconPath": "static/images/tabbar/shangyequan1@2x.png",
+				"text": "行业圈"
+			},
+			{
+				"pagePath": "pages/mine/index/index",
+				"iconPath": "static/images/tabbar/wode@2x.png",
+				"selectedIconPath": "static/images/tabbar/wode1@2x.png",
+				"text": "我的"
+			}
+		]
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

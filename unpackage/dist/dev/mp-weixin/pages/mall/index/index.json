@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "mall",
+  "usingComponents": {
+    "mall-banner": "/pages/mall/index/children/mallBanner",
+    "mall-classify": "/pages/mall/index/children/mallClassify",
+    "mall-popular": "/pages/home/index/children/popular",
+    "mall-excellent": "/pages/home/index/children/excellent",
+    "publish-popup": "/components/publish-popup"
+  }
+}

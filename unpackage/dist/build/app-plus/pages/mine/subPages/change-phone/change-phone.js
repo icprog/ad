@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"change-phone-wrap.",[1],"data-v-0b93a7ec { height: 100%; }\n.",[1],"change-phone-wrap .",[1],"change-phone.",[1],"data-v-0b93a7ec { height: 100%; }\n.",[1],"change-phone-wrap .",[1],"change-phone .",[1],"btn.",[1],"data-v-0b93a7ec { margin-top: ",[0,210],"; color: #fff; background: #f13130; }\n",],undefined,{path:"./pages/mine/subPages/change-phone/change-phone.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mine/subPages/change-phone/change-phone.wxml') } }));

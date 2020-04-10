@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "附 近 需 求",
+  "usingComponents": {
+    "demand-item": "/pages/home/index/children/demand-item",
+    "empty": "/components/empty",
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}

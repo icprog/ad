@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "店 铺 动 态",
+  "usingComponents": {
+    "active-detail": "/components/active-item"
+  }
+}

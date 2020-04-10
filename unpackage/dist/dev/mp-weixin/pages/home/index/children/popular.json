@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "popular-title": "/pages/home/index/children/title",
+    "popular-item": "/pages/home/index/children/popular-item"
+  },
+  "component": true
+}

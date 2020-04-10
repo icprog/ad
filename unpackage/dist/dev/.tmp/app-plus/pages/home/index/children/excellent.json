@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "excellent-title": "/pages/home/index/children/title",
+    "excellent-item": "/pages/home/index/children/excellent-item"
+  },
+  "component": true
+}

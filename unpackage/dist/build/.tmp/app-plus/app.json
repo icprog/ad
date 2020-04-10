@@ -1,0 +1,123 @@
+{
+  "pages": [
+    "pages/home/index/index",
+    "pages/mall/index/index",
+    "pages/home/subPages/search/search",
+    "pages/home/subPages/notice-list/notice-list",
+    "pages/home/subPages/notice-detail/notice-detail",
+    "pages/mall/subPages/confirm-order/confirm-order",
+    "pages/mine/subPages/order/order",
+    "pages/home/subPages/message-list/message-list",
+    "pages/publish/subPages/publish-goods/publish-goods",
+    "pages/publish/subPages/edit-goods/edit-goods",
+    "pages/home/subPages/publish-type/publish-type",
+    "pages/home/subPages/publish/publish",
+    "pages/home/subPages/merchant-detail/merchant-detail",
+    "pages/home/subPages/active-list/active-list",
+    "pages/home/subPages/merchant-active/merchant-active",
+    "pages/home/subPages/goods-detail/goods-detail",
+    "pages/home/subPages/demand-detail/demand-detail",
+    "pages/home/subPages/message-detail/message-detail",
+    "pages/home/subPages/merchant-list/merchant-list",
+    "pages/home/subPages/demand-list/demand-list",
+    "pages/home/subPages/goods-list/goods-list",
+    "pages/publish/index/index",
+    "pages/round/index/index",
+    "pages/round/subPages/publish-active/publish-active",
+    "pages/round/subPages/round-message/round-message",
+    "pages/round/subPages/reply/reply",
+    "pages/round/subPages/follow/follow",
+    "pages/mine/subPages/my-attention/my-attention",
+    "pages/mine/subPages/my-fans/my-fans",
+    "pages/mine/subPages/my-publish/my-publish",
+    "pages/mine/subPages/invite-offer/invite-offer",
+    "pages/mine/subPages/service-goods/service-goods",
+    "pages/mine/subPages/message-list/message-list",
+    "pages/mine/subPages/success/success",
+    "pages/mine/subPages/refund/refund",
+    "pages/mine/subPages/offer-detail/offer-detail",
+    "pages/mine/subPages/offer-detail2/offer-detail",
+    "pages/mine/subPages/personal-info/personal-info",
+    "pages/mine/subPages/service-order/service-order",
+    "pages/mine/subPages/order-fllow/order-fllow",
+    "pages/round/subPages/praise/praise",
+    "pages/mine/index/index",
+    "pages/mine/subPages/set/set",
+    "pages/mine/subPages/change-phone/change-phone",
+    "pages/mine/subPages/change-pwd/change-pwd",
+    "pages/mine/subPages/change-nickName/change-nickName",
+    "pages/mine/subPages/wallet/wallet",
+    "pages/mine/subPages/comment/comment",
+    "pages/mine/subPages/collect/collect",
+    "pages/mine/subPages/my-join/my-join",
+    "pages/mine/subPages/goods-comment/goods-comment",
+    "pages/mine/subPages/address-list/address-list",
+    "pages/mine/subPages/address-edit/address-edit",
+    "pages/mine/subPages/feedback/feedback",
+    "pages/mine/subPages/approve/approve",
+    "pages/mine/subPages/complete-info/complete-info",
+    "pages/mine/subPages/contact-us/contact-us",
+    "pages/mine/subPages/service-tag/service-tag",
+    "pages/home/subPages/choose-location/choose-location",
+    "pages/mine/subPages/recharge/recharge",
+    "pages/mine/subPages/withdraw/withdraw",
+    "pages/login/demand-login",
+    "pages/login/bind-phone",
+    "pages/login/login",
+    "pages/login/sms-login",
+    "pages/login/forget-pwd"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "广 告 临 客",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "color": "#c0c0c0",
+    "selectedColor": "#f13130",
+    "list": [
+      {
+        "pagePath": "pages/home/index/index",
+        "iconPath": "static/images/tabbar/shouye@2x.png",
+        "selectedIconPath": "static/images/tabbar/shouye1@2x.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/mall/index/index",
+        "iconPath": "static/images/tabbar/shangcheng@2x.png",
+        "selectedIconPath": "static/images/tabbar/shangcheng1@2x.png",
+        "text": "商城"
+      },
+      {
+        "pagePath": "",
+        "iconPath": "static/1.png",
+        "selectedIconPath": "static/2.png",
+        "text": "发布"
+      },
+      {
+        "pagePath": "pages/round/index/index",
+        "iconPath": "static/images/tabbar/shangyequan@2x.png",
+        "selectedIconPath": "static/images/tabbar/shangyequan1@2x.png",
+        "text": "行业圈"
+      },
+      {
+        "pagePath": "pages/mine/index/index",
+        "iconPath": "static/images/tabbar/wode@2x.png",
+        "selectedIconPath": "static/images/tabbar/wode1@2x.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "nvueCompiler": "weex",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "广告临客",
+  "compilerVersion": "2.0.1",
+  "usingComponents": {}
+}

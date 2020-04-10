@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.wrap.data-v-3cc2008e {
+  padding: 20rpx;
+}
+.wrap .join-item.data-v-3cc2008e {
+    padding: 20rpx;
+    margin-bottom: 20rpx;
+    -webkit-border-radius: 15rpx;
+            border-radius: 15rpx;
+}
+.wrap .join-item .join-logo.data-v-3cc2008e {
+      width: 50rpx;
+      height: 50rpx;
+      margin-right: 20rpx;
+      -webkit-border-radius: 50%;
+              border-radius: 50%;
+      -webkit-flex-shrink: 0;
+          -ms-flex-negative: 0;
+              flex-shrink: 0;
+}
+.wrap .join-item .join-desc.data-v-3cc2008e {
+      padding: 25rpx 0;
+      color: #999999;
+      text-align: justify;
+}
+.wrap .join-item .join-bottom.data-v-3cc2008e {
+      padding-top: 15rpx;
+}
+.wrap .join-item .join-bottom .join-bottom-desc > view.data-v-3cc2008e {
+        margin-left: 10rpx;
+        padding: 0 15rpx;
+        line-height: 40rpx;
+        -webkit-border-radius: 30rpx;
+                border-radius: 30rpx;
+        font-size: 18rpx;
+        background: #f2f2f2;
+}
+.wrap .join-item .join-bottom .join-bottom-desc > view .num.data-v-3cc2008e {
+          color: #333333;
+}
+.wrap .join-item .join-bottom .join-bottom-desc > view .price.data-v-3cc2008e {
+          color: #f13130;
+}
+.wrap .join-item .join-bottom .join-bottom-desc .active.data-v-3cc2008e {
+        background: #f13130;
+        color: #fff;
+}
+

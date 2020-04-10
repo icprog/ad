@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "merchant-item": "/pages/home/subPages/merchant-detail/children/merchant-item"
+  },
+  "component": true
+}
